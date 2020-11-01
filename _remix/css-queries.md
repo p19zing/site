@@ -10,9 +10,13 @@ tags:
   - IV
 ---
 
-Παράδειγμα κώδικα με σκοπό να γίνει κατανοητή η χρήση των CSS media queries. Αλλάζοντας το μέγεθος του παραθύρου του περιηγητή (browser) σας αλλάζει το χρώμα της επιφάνειας του παραδείγματος.
+Προστέθηκε media query για μέγεθος 1200px και αλλάζουν τα χρώματα του κειμένου και του background
+ανάλογα με το μέγεθος.
 
-<p data-height="350" data-theme-id="17517" data-slug-hash="vOoyJG" data-default-tab="result" data-user="sckarolos" class='codepen'>See the Pen <a href='https://codepen.io/sckarolos/pen/vOoyJG/'>media queries example</a> by sckarolos (<a href='https://codepen.io/sckarolos'>@sckarolos</a>) on <a href='https://codepen.io'>CodePen</a>.</p>
-<script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+<p class="codepen" data-height="265" data-theme-id="light" data-default-tab="css,result" data-user="p19zing" data-slug-hash="ZEOoeGB" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="media queries example">
+  <span>See the Pen <a href="https://codepen.io/p19zing/pen/ZEOoeGB">
+  media queries example</a> by Chris Zingopis (<a href="https://codepen.io/p19zing">@p19zing</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-Άσκηση: Πειραματιστείτε με το παράδειγμα προσθέτοντας περισσότερα CSS media queries και αλλάζοντας το χρώμα του παραθούρου. Στη συνέχεια δοκιμάστε να εφαρμόσετε CSS media queries στο μέγεθος της γραμματοσειράς ώστε να απεικονίζεται σωστά σε όλα τα μεγέθη παραθύρων.
